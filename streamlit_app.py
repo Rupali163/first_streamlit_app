@@ -2,8 +2,6 @@ import streamlit
 streamlit.title('New line is added')
 streamlit.title('Updating streamlite data through this app!!')
 streamlit.header('Breakfast menu ....')
-//streamlit.title('coeffe, sandwich,,fries!!')
-//streamlit.header('breakfast fav')
 streamlit.text('avcado')
 streamlit.text('kala, splinach')
 streamlit.text('almond milk')
